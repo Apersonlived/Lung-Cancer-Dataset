@@ -1,3 +1,3 @@
 *.log
-utility/_pycache_
+utility/__pycache__
 home/ekatabaral/LungData/extract
