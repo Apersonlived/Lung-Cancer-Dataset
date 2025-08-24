@@ -1,3 +1,4 @@
 *.log
 utility/__pycache__
 home/ekatabaral/LungData/extract
+.vscode
